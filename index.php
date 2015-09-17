@@ -1,5 +1,5 @@
 <?
 
-echo "next-gen";
+echo "master-local";
 
 ?>
